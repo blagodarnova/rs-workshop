@@ -1,3 +1,5 @@
 Some tesxt for header
-Changes from <master> new text
+Changes from <master> 
+Changes from <first>
 
+Text from master: new text
